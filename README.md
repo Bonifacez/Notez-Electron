@@ -1,4 +1,18 @@
-# electron-vite-react
+# Notez
+
+A Copilot / Cursor Like AI Markdown Base On Electron 
+
+Same as Notez-Tauri[https://github.com/Bonifacez/Notez-Tauri], but use Electron
+
+---
+
+「cmd + K」is the key to call AI to Complete
+
+Click 「Releases」 on the right side can download the app
+
+
+
+## electron-vite-react
 
 [![awesome-vite](https://awesome.re/mentioned-badge.svg)](https://github.com/vitejs/awesome-vite)
 ![GitHub stars](https://img.shields.io/github/stars/caoxiemeihao/vite-react-electron?color=fa6470)
